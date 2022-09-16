@@ -1,0 +1,2 @@
+source ~/.bashrc /localhome/sdauz/.bash_profile.
+DATA=/local-scratch/course_files/MBB243/ /localhome/sdauz/.bash_profile.
